@@ -29,3 +29,25 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="BRASIL",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="Hobby",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
+http://168.205.87.198:8555/live/1221/123456/19.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND BRASILIA HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162690?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEWS FHD
+http://topstb.com:8000/50656250782258/27115840859269/120569?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CNN BRASIL HD
+http://top.streancdn.fun:80/0987654321/1234567890/2162667?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/LBvrr8s.png" group-title="Undefined",CityTV San Diego (360p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/YUdyGYf.png" group-title="General",Carlsbad City TV Channel (Carlsbad CA) (720p)
+https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGROMAIS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163040?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGROMAIS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163041?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGROMAIS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163043?checkedby:iptvcat.com

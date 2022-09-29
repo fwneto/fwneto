@@ -1,7 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",Agro Mais
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",Agro Mais UOL
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",AGROMAIS FHD
+http://top.streancdn.fun:80/0987654321/1234567890/2163040?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",AGROMAIS HD
+http://top.streancdn.fun:80/0987654321/1234567890/2163041?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",AGROMAIS SD
+http://top.streancdn.fun:80/0987654321/1234567890/2163043?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva UOL
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
@@ -15,53 +27,41 @@ http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="Pública",TVE RS
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="Variedades",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="Pública",TV Câmara
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="Variedades",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN SP
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN RJ
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="BRASIL",TVE RS
+#EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="Variedades",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="Hobby",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
+#EXTINF:-1 tvg-logo="" group-title="Variedades",BAND
 http://168.205.87.198:8555/live/1221/123456/19.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND BRASILIA HD
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",BAND BSB HD
 http://top.streancdn.fun:80/0987654321/1234567890/2162690?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEWS FHD
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",BNEWS FHD
 http://topstb.com:8000/50656250782258/27115840859269/120569?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CNN BRASIL HD
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",CNN BRASIL HD
 http://top.streancdn.fun:80/0987654321/1234567890/2162667?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/LBvrr8s.png" group-title="Undefined",CityTV San Diego (360p)
-https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/YUdyGYf.png" group-title="General",Carlsbad City TV Channel (Carlsbad CA) (720p)
-https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGROMAIS FHD
-http://top.streancdn.fun:80/0987654321/1234567890/2163040?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGROMAIS HD
-http://top.streancdn.fun:80/0987654321/1234567890/2163041?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGROMAIS SD
-http://top.streancdn.fun:80/0987654321/1234567890/2163043?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BAND NEWS SD
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",BNEWS SD
 http://top.streancdn.fun:80/0987654321/1234567890/2162679?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band News HD
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",BNews HD
 http://topstb.com:8000/50656250782258/27115840859269/120511?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band News SD
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",BNews SD
 http://topstb.com:8000/50656250782258/27115840859269/120696?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BAND NEWS HD
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",BNEWS HD
 http://top.streancdn.fun:80/0987654321/1234567890/2162665?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BAND NEWS FHD (H265)
+
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Variedades",BNEWS FHD (H265)
 http://top.streancdn.fun:80/0987654321/1234567890/2162671?checkedby:iptvcat.com
 
-
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 1 HD
-http://topstb.com:8000/50656250782258/27115840859269/120664?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="GLOBO RJ " tvg-logo="https://assets.streamtest.in/logo/9513/493_globo-rj.jpg?v=1631973086", GLOBO RJ 
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8

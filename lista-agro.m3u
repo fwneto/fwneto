@@ -36,10 +36,10 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="Variedades",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Variedades",BAND
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",BAND
 http://168.205.87.198:8555/live/1221/123456/19.ts?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="" group-title="Variedades",BAND BSB HD
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",BAND BSB HD
 http://top.streancdn.fun:80/0987654321/1234567890/2162690?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="" group-title="Variedades",BNEWS FHD

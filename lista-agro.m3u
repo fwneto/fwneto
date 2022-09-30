@@ -75,3 +75,6 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4m0Qt7.jpg" group-title="BRASIL", CANAL RURAL
 https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j9Kh63q.jpg" group-title="BRASIL", AGRO BRASIL TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8

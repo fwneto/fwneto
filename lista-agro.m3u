@@ -72,3 +72,6 @@ http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="https://imgur.com/KmJ7Qsh.jpg" group-title="BRASIL", BAND NEWS
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4m0Qt7.jpg" group-title="BRASIL", CANAL RURAL
+https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/chunklist.m3u8

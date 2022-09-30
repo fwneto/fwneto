@@ -27,6 +27,9 @@ http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",BAND
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="BRASIL", BAND SP UOL
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="Variedades",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
@@ -66,8 +69,6 @@ http://top.streancdn.fun:80/0987654321/1234567890/2162671?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="BRASIL", BAND SP
 http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="BRASIL", BAND SP INTERIOR
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="https://imgur.com/KmJ7Qsh.jpg" group-title="BRASIL", BAND NEWS
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8

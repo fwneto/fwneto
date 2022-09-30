@@ -3,26 +3,11 @@
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",AGROMAIS UOL
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",AGROMAIS FHD
-http://top.streancdn.fun:80/0987654321/1234567890/2163040?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",AGROMAIS HD
-http://top.streancdn.fun:80/0987654321/1234567890/2163041?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",AGROMAIS SD
-http://top.streancdn.fun:80/0987654321/1234567890/2163043?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva UOL
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT - PE
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT - Caruaru
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="BRASIL", BAND SP
+http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",BAND
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
@@ -30,54 +15,8 @@ https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="BRASIL", BAND SP UOL
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="Variedades",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="Variedades",TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="Variedades",TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",BAND
-http://168.205.87.198:8555/live/1221/123456/19.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",BAND BSB HD
-http://top.streancdn.fun:80/0987654321/1234567890/2162690?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="" group-title="Variedades",BNEWS FHD
-http://topstb.com:8000/50656250782258/27115840859269/120569?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="" group-title="Variedades",CNN BRASIL HD
-http://top.streancdn.fun:80/0987654321/1234567890/2162667?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="" group-title="Variedades",BNEWS SD
-http://top.streancdn.fun:80/0987654321/1234567890/2162679?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="" group-title="Variedades",BNEWS HD
-http://topstb.com:8000/50656250782258/27115840859269/120511?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="" group-title="Variedades",BNEWS SD
-http://topstb.com:8000/50656250782258/27115840859269/120696?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="" group-title="Variedades",BNEWS HD
-http://top.streancdn.fun:80/0987654321/1234567890/2162665?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Variedades",BNEWS FHD (H265)
-http://top.streancdn.fun:80/0987654321/1234567890/2162671?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="BRASIL", BAND SP
-http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist.m3u8
-
-
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="https://imgur.com/KmJ7Qsh.jpg" group-title="BRASIL", BAND NEWS
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4m0Qt7.jpg" group-title="BRASIL", CANAL RURAL
-https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/j9Kh63q.jpg" group-title="BRASIL", AGRO BRASIL TV
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/db2k5jn.jpg" group-title="ESPORTE", BAND SPORTS
 http://evpp.mm.uol.com.br:1935/geob_band/bandsports/chunklist.m3u8
@@ -87,3 +26,18 @@ http://evpp.mm.uol.com.br:1935/geob_band/esporte/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPbWjeM.jpg" group-title="ESPORTE", BAND SPORTS RUSSO
 http://evpp.mm.uol.com.br:1935/geob_band/campeonatorusso/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="Variedades",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="Variedades",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT - PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT - Caruaru
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="Variedades",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8

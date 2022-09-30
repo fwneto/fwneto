@@ -78,3 +78,12 @@ https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/chunklist.m3u
 
 #EXTINF:-1 tvg-logo="https://imgur.com/j9Kh63q.jpg" group-title="BRASIL", AGRO BRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/db2k5jn.jpg" group-title="ESPORTE", BAND SPORTS
+http://evpp.mm.uol.com.br:1935/geob_band/bandsports/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPbWjeM.jpg" group-title="ESPORTE", BAND SPORTS ON LINE
+http://evpp.mm.uol.com.br:1935/geob_band/esporte/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPbWjeM.jpg" group-title="ESPORTE", BAND SPORTS RUSSO
+http://evpp.mm.uol.com.br:1935/geob_band/campeonatorusso/chunklist.m3u8

@@ -62,3 +62,12 @@ http://top.streancdn.fun:80/0987654321/1234567890/2162665?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Variedades",BNEWS FHD (H265)
 http://top.streancdn.fun:80/0987654321/1234567890/2162671?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="BRASIL", BAND SP
+http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="BRASIL", BAND SP INTERIOR
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="https://imgur.com/KmJ7Qsh.jpg" group-title="BRASIL", BAND NEWS
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8

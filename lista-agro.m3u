@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",Agro Mais UOL
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",AGROMAIS UOL
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",AGROMAIS FHD
@@ -24,7 +24,7 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT - Caruaru
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",BAND
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="Variedades",TV Câmara
@@ -51,10 +51,10 @@ http://top.streancdn.fun:80/0987654321/1234567890/2162667?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="" group-title="Variedades",BNEWS SD
 http://top.streancdn.fun:80/0987654321/1234567890/2162679?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="" group-title="Variedades",BNews HD
+#EXTINF:-1 tvg-logo="" group-title="Variedades",BNEWS HD
 http://topstb.com:8000/50656250782258/27115840859269/120511?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="" group-title="Variedades",BNews SD
+#EXTINF:-1 tvg-logo="" group-title="Variedades",BNEWS SD
 http://topstb.com:8000/50656250782258/27115840859269/120696?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="" group-title="Variedades",BNEWS HD
